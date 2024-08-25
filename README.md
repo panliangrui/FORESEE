@@ -6,7 +6,7 @@
     <img src="https://github.com/panliangrui/FORESEE/blob/main/frame.png" width="900" height="400" />
   </a>
 
-  <h1>STAS(micropapillary, solid nests, single cells)</h1>
+  <h1>Flowchart depicting multimodal patient survival prediction.</h1>
 
   <p>
   Liangrui Pan et al. is a developer helper.
