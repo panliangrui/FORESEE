@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="(https://github.com/panliangrui/FORESEE/blob/main/frame.png)">
-    <img src="https://github.com/panliangrui/FORESEE/blob/main/frame.png" width="700" height="400" />
+    <img src="https://github.com/panliangrui/FORESEE/blob/main/frame.png" width="900" height="400" />
   </a>
 
   <h1>STAS(micropapillary, solid nests, single cells)</h1>
