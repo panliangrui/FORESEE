@@ -58,22 +58,20 @@
 ## Feature Preprocessing
 
 Use the pre-trained model for feature preprocessing and build the spatial topology of WSI.
+The relevant clinical data and histopathological image data can be downloaded at https://www.cbioportal.org/ and https://portal.gdc.cancer.gov/.
 
 ### Feature Extraction
 
-Features extracted based on KimiaNet and CTransPath.
+Features extracted based on KimiaNet.
 Please refer to KimiaNet: https://github.com/KimiaLabMayo/KimiaNet.
-Please refer to CTransPath: https://github.com/Xiyue-Wang/TransPath
 ```markdown
+cd cut_and_pretrain
 python new_cut7.py
-```
-```markdown
-python new_cut7-1.py
 ```
 
 ### Graph Construction
 
-Use KNN (K=9) to construct the spatial topology map.
+Use KNN (K=8) to construct the spatial topology map.
 ```markdown
 python construct_graph1.py
 ```
