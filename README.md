@@ -1,5 +1,4 @@
-# FORSEE
-Multimodal and Multi-view Feature Extraction for Robust Prediction of Cancer Survival
+
 
 
 <div align="center">
@@ -37,7 +36,7 @@ Multimodal and Multi-view Feature Extraction for Robust Prediction of Cancer Sur
   </div>
 </div>
 
-# Feature-interactive Siamese graph encoder for predicting STAS in lung cancer histopathology images
+# FORESEE: Multimodal and Multi-view Representation Learning for Robust Prediction of Cancer Survival
 
 ## Table of Contents
 
