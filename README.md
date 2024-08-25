@@ -73,7 +73,8 @@ python new_cut7.py
 
 Use KNN (K=8) to construct the spatial topology map.
 ```markdown
-python construct_graph1.py
+cd Graph
+python construct_graph.py
 ```
 
 ## Train Models
