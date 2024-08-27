@@ -359,7 +359,7 @@ def main():
     parser.add_argument('--specify_filename', action='store_true', default=False)
     parser.add_argument('--filename_l', type=int, default=0)
     parser.add_argument('--filename_r', type=int, default=12)
-    parser.add_argument('--method', type=str, default='rgb', choices=['otsu', 'adaptive', 'rgb'])
+    parser.add_argument('--method', type=str, default='otsu', choices=['otsu', 'adaptive', 'rgb'])
     args = parser.parse_args()
     print(f"args:\n{args}")
     run(args)
