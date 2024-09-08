@@ -88,8 +88,7 @@ python train_mae_abl.py
 
 - We provide the relevant features of histopathology images, the download link is as follows:
 ```markdown
-  link：https://pan.baidu.com/s/1pJY1Cv9d-ML7jU09RnGOjg?pwd=rzj7
-  https://zenodo.org/records/11611418
+  link：https://pan.baidu.com/s/1p4IfnAF6F7ojJhqcNMV1Gw?pwd=ak5h 提取码: ak5h 
 
 ```
 
